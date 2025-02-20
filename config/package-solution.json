@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "acies-metadata-search-client-side-solution",
+    "id": "3d6af0ec-27ea-4363-815f-c7a47190efb4",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "acies-metadata-search description"
+      },
+      "longDescription": {
+        "default": "acies-metadata-search description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "acies-metadata-search Feature",
+        "description": "The feature that activates elements of the acies-metadata-search solution.",
+        "id": "d969ae02-d2e4-4e22-be55-1ff15a6881f9",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/acies-metadata-search.sppkg"
+  }
+}
