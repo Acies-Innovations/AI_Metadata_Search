@@ -1,0 +1,29 @@
+
+#workbenchPageContent{
+    max-width: 1920px!important;
+    width: 100%!important;
+    left:0px!important;
+    }
+    .l_e_8474018e {
+      padding-left: 0!important;
+      padding-right: 0!important;
+    }
+    .CanvasComponent.LCS .CanvasSection-col{
+      padding-left: 0!important;
+      padding-right: 0!important;
+    }
+    .CanvasComponent.LCS .CanvasZone{
+      max-width: 1920px!important;
+    width: 100%!important;
+    }
+
+    #sp-appBar{
+        display: none!important;
+    }
+
+    #SuiteNavWrapper{
+        display: none!important;
+    }
+    .n_c_8474018e{
+      padding: 0!important;
+    }
