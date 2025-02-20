@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "acies-metadata-search",
+    "libraryId": "3d6af0ec-27ea-4363-815f-c7a47190efb4",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "acies-metadata-search",
+    "solutionShortDescription": "acies-metadata-search description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
