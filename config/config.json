@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "acies-metadata-search-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/aciesMetadataSearch/AciesMetadataSearchWebPart.js",
+          "manifest": "./src/webparts/aciesMetadataSearch/AciesMetadataSearchWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "AciesMetadataSearchWebPartStrings": "lib/webparts/aciesMetadataSearch/loc/{locale}.js"
+  }
+}
